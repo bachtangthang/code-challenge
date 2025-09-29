@@ -1,0 +1,1 @@
+{"version":3,"file":"controller.interface.d.ts","sourceRoot":"","sources":["../../src/interface/controller.interface.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,SAAS,CAAC;AAEjC,UAAU,UAAU;IAClB,IAAI,EAAE,MAAM,CAAC;IACb,MAAM,EAAE,MAAM,CAAC;CAChB;AAED,eAAe,UAAU,CAAC"}
